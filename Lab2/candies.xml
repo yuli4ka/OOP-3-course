@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Candies>
+	<Candy id="1">
+		<type>chocolate</type>
+		<name>Candy1</name>
+		<energy>520</energy>
+		<ingredients mg="200">sugar</ingredients>
+		<ingredients mg="300">milk</ingredients>
+		<production>prod1</production>
+		<value type="protein">10</value>
+		<value type="fats">15</value>
+		<value type="carbohydrates">5</value>
+	</Candy>
+	<Candy id="2">
+		<type>yammyyyy</type>
+		<type>marshmallow</type>
+		<name>Candy2</name>
+		<energy>311</energy>
+		<ingredients mg="100">sugar</ingredients>
+		<ingredients mg="400">water</ingredients>
+		<ingredients>milk</ingredients>
+		<ingredients>soft milk</ingredients>
+		<ingredients chocolateType="milk">chocolate</ingredients>
+		<ingredients chocolateType="dark" mg="10">chocolate</ingredients>
+		<production>prod2</production>
+	</Candy>
+	<Candy id="3">
+		<type>soft</type>
+		<type>marshmallow</type>
+		<type>yammyyyy</type>
+		<name>Candy3</name>
+		<energy>143</energy>
+		<ingredients mg="200" chocolateType="milk">chocolate</ingredients>
+		<ingredients>water</ingredients>
+		<production>prod1</production>
+		<value type="protein">50</value>
+		<value type="fats">65</value>
+		<value type="carbohydrates">75</value>
+	</Candy>
+	<Candy id="4">
+		<type>marshmallow</type>
+		<type>iris</type>
+		<name>Candy4</name>
+		<energy>572</energy>
+		<production>prod3</production>
+		<value type="carbohydrates">56</value>
+	</Candy>
+</Candies>

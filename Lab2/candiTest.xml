@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Candies>
+	<Candy id="30">
+		<type>type</type>
+		<name>name</name>
+		<energy>123</energy>
+		<ingredients>water</ingredients>
+		<production>prod</production>
+		<value type="protein">45</value>
+		<value type="fats">32</value>
+		<value type="carbohydrates">20</value>
+	</Candy>
+</Candies>
